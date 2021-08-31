@@ -1,5 +1,22 @@
 <h3 align=center> ✨ おす！✨ </h3>
+<h4 align=center> 🌸~ Welcome on my profile ! ~🌸</h4>
+
+---------
+
+I'm actually ....
+<li> 📚 Learning Ux/Ui Design </li>
+<li> 🎌 Learning Japanese :D </li>
+<li> 👨‍💻 Learning how to code (Html, Css, Js, Java, React Native...) </li>
+<li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
+
+---------
+
+A little more about me ...
+<li> 🍀🎍🦗 I love insects and plants </li>
+<li> 💙🔵☄️ My favorite color is blue </li>
+
 <!--
+<li> </li>
 **AyatoKirishima/AyatoKirishima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
