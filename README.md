@@ -7,7 +7,7 @@
 I'm actually ....
 <li> 📚 Learning Ux/Ui Design </li>
 <li> 🎌 Learning Japanese :D </li>
-<li> 👨‍💻 Learning how to code (Html, Css, Js, Php, Java, React Native...) </li>
+<li> 👨‍💻 Learning how to code (Html, Css, Js, Php, Java, React Native, C...) </li>
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
 
 ---------
