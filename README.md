@@ -29,7 +29,6 @@ A little more about me ...
 <li> 🍀🎍🦗 I love insects and plants </li>
 <li> 💙🔵☄️ My favorite color is blue </li>
 <br>
-<img src="https://forthebadge.com/images/badges/winter-is-coming.svg">
 
 ---------
 
