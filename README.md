@@ -4,7 +4,7 @@
 
 ---------
 
-I'm actually ....
+I'm currently ....
 <li> 📚 Learning Ux/Ui Design </li>
 <li> 🎌 Learning Japanese :D </li>
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
