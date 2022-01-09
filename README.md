@@ -43,6 +43,9 @@ A little more about me ...
 <li> 💙🔵☄️ My favorite color is blue </li>
 <br>
 
+--------- 
+
+![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?AyatoKirishima=USERNAME&show_icons=true)
 <!--
 ---------
 <img src="">
