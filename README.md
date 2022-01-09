@@ -45,7 +45,7 @@ A little more about me ...
 
 --------- 
 
-<!--![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?AyatoKirishima=USERNAME&show_icons=true)-->
+![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true)
 <!--
 ---------
 <img src="">
