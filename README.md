@@ -25,6 +25,7 @@ I'm currently ....
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyatoKirishima&show_icons=true&locale=en&layout=compact" alt="stats" />
 <!--<img src="">-->
 
 --------- 
@@ -45,9 +46,11 @@ A little more about me ...
 <br>
 
 --------- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyatoKirishima&show_icons=true&locale=en&layout=compact" alt="stats" />
 
-![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true" alt="stats" />
+
+
+<!-- ![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true) -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyatoKirishima&" alt="stats" />
 <!--
