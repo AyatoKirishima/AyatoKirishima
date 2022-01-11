@@ -40,10 +40,10 @@ What I use for Design / Communication :
 
 --------- 
 
-A little more about me ...
+<!--A little more about me ...
 <li> 🍀🎍🦗 I love insects and plants </li>
 <li> 💙🔵☄️ My favorite color is blue </li>
-<br>
+<br>-->
 
 --------- 
 
