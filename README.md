@@ -1,6 +1,6 @@
 <h3 align=center> ✨ おす！✨ </h3>
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
-<h4 align=center> 🌱~ You can visit my Portfolio here : https://leane-muller-portfolio.netlify.app ~🌱</h4>
+<h4 align=center> 🌱~ You can visit my Portfolio <a target="_blank" href="https://leane-muller-portfolio.netlify.app"> here </a> ~🌱</h4>
 
 ---------
 
