@@ -69,6 +69,7 @@ What I use for Design / Communication :
 <br>-->
 
 --------- 
+
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true" alt="stats" />
 </div>
@@ -77,6 +78,8 @@ What I use for Design / Communication :
 <div align=center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatoKirishima&" alt="stats" />
 </div>
+
+
 ---------
 
 <div align=center>
