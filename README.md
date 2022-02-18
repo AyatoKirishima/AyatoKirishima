@@ -1,18 +1,11 @@
 <h3 align=center> ✨ おす！✨ </h3>
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
-<h4 align=center> 📝~ You can visit my Portfolio <a target="_blank" href="https://leane-muller-portfolio.netlify.app"> here </a> ~📝</h4>
-
 <br>
 <div align=center>
-  <a target="_blank" href="https://www.linkedin.com/in/leane-muller/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a target="_blank" href="https://leane-muller-portfolio.netlify.app">   
+    <img src="https://user-images.githubusercontent.com/42692272/154658280-67db4811-04f2-4937-84fd-c52aa3df117f.svg">
   </a>
-
-  <a target="_blank" href="https://www.instagram.com/blue_sakura_13/"> 
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
- </div>
+</div>
 
 ---------
 
@@ -83,6 +76,19 @@ What I use for Design / Communication :
 <!-- ![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true) -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyatoKirishima&" alt="stats" />
+
+---------
+
+<div align=center>
+  <a target="_blank" href="https://www.linkedin.com/in/leane-muller/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a target="_blank" href="https://www.instagram.com/blue_sakura_13/"> 
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+ </div>
 <!--
 ---------
 <img src="">
