@@ -69,14 +69,14 @@ What I use for Design / Communication :
 <br>-->
 
 --------- 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true" alt="stats" />
-
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true" alt="stats" />
+</div>
 
 <!-- ![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyatoKirishima&show_icons=true) -->
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyatoKirishima&" alt="stats" />
-
+<div align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyatoKirishima&" alt="stats" />
+</div>
 ---------
 
 <div align=center>
