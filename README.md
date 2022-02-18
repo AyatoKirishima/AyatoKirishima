@@ -2,6 +2,18 @@
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
 <h4 align=center> 📝~ You can visit my Portfolio <a target="_blank" href="https://leane-muller-portfolio.netlify.app"> here </a> ~📝</h4>
 
+<br>
+<div align=center>
+  <a target="_blank" href="https://www.linkedin.com/in/leane-muller/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a target="_blank" href="https://www.instagram.com/blue_sakura_13/"> 
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+ </div>
+
 ---------
 
 <!-- I'm currently ....
