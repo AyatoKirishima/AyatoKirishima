@@ -15,8 +15,10 @@
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
 
 --------- -->
+These are the different things that we're learning or that we saw in DUT (IT)
 
-👨‍💻 The <> languages I'm learning and that we saw in DUT (IT) :
+
+👨‍💻 The <> languages :
 <br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
