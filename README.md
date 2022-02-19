@@ -15,7 +15,7 @@
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
 
 --------- -->
-These are the different things that we're learning or that we saw in DUT (IT)
+These are the different things that I'm learning or that we saw in DUT (IT)
 
 
 👨‍💻 The <> languages :
