@@ -91,7 +91,11 @@ What I use for Design / Communication :
   <a target="_blank" href="https://www.instagram.com/blue_sakura_13/"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
+  
+  <a target="_blank" href="https://gitlab.com/LeaneMuller/"> 
+      <img src="hhttps://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  
  </div>
 <!--
 ---------
