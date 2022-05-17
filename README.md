@@ -13,6 +13,14 @@
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
 
 These are the different things that I'm learning or that we saw in DUT (IT)-->
+---------
+<div align=center>
+  <h4>- I'm currently working on this project -</h4>
+  <a target="_blank" href="https://projet-campagne-anti-harcelement.netlify.app">   
+    "Projet Campagne anti-harcèlement"
+  </a>
+</div>
+
 
 --------- 
 
