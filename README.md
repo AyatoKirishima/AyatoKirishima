@@ -2,7 +2,7 @@
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
 <br>
 <div align=center>
-  <a target="_blank" href="https://leane-muller-portfolio.netlify.app">   
+  <a href="https://leane-muller-portfolio.netlify.app" target="_blank">   
     <img src="https://user-images.githubusercontent.com/42692272/154658280-67db4811-04f2-4937-84fd-c52aa3df117f.svg">
   </a>
 </div>
