@@ -1,13 +1,13 @@
 <h3 align=center> ✨ おす！✨ </h3>
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
 <br>
-<div align=center>
-  <i>-- I'm coding my portfolio again, available soon --</i>
-</div>
 <!--<div align=center>
+  <i>-- I'm coding my portfolio again, available soon --</i>
+</div>-->
+<div align=center>
   <a href="https://leane-muller-portfolio.netlify.app" target="_blank">   
     <img src="https://user-images.githubusercontent.com/42692272/154658280-67db4811-04f2-4937-84fd-c52aa3df117f.svg">
-  </a>-->
+  </a>
 </div>
 
 <!-- I'm currently ....
