@@ -1,3 +1,6 @@
+![xiao banner](https://user-images.githubusercontent.com/42692272/182811353-d28b69d1-799d-4ccf-b15c-f69bb8cf026c.jpg)
+
+---------
 <h3 align=center> ✨ おす！✨ </h3>
 <h4 align=center> 🌸~ Welcome on my profile 👋 ! ~🌸</h4>
 <br>
@@ -9,6 +12,8 @@
     <img src="https://user-images.githubusercontent.com/42692272/154658280-67db4811-04f2-4937-84fd-c52aa3df117f.svg">
   </a>
 </div>
+
+
 
 <!-- I'm currently ....
 <li> 📚 Learning Ux/Ui Design </li>
