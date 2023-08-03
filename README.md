@@ -7,11 +7,11 @@
 <!--<div align=center>
   <i>-- I'm coding my portfolio again, available soon --</i>
 </div>-->
-<div align=center>
+<!-- <div align=center>
   <a href="https://leane-muller-portfolio.netlify.app" target="_blank">   
     <img src="https://user-images.githubusercontent.com/42692272/154658280-67db4811-04f2-4937-84fd-c52aa3df117f.svg">
   </a>
-</div>
+</div> -->
 
 
 
@@ -20,7 +20,7 @@
 <li> 🎌 Learning Japanese :D </li>
 <li> 📖 🐛 Looking for an  apprenticeship in Ux/Ui Design </li>
 
-These are the different things that I'm learning or that we saw in DUT (IT)-->
+These are the different things that I'm learning or that we saw in DUT (IT)
 ---------
 <div align=center>
   <h4>- I'm currently working on this project -</h4>
@@ -29,7 +29,7 @@ These are the different things that I'm learning or that we saw in DUT (IT)-->
   </a>
 </div>
 
-
+-->
 --------- 
 
 
